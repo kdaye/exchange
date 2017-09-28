@@ -31,11 +31,11 @@ public class LanguageUtil {
             "el", // Greek
             "es", // Spanish
             "pt", // Portuguese / Brazil
-            "sr"  // Serbian
+            "sr",  // Serbian
+            "zh" // Chinese
             
             /*
             // not translated yet
-            "zh", // Chinese
             "it", // Italian
             "fr", // French
             "ja", // Japanese
