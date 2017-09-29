@@ -1,5 +1,10 @@
 <img src="https://bisq.io/wp-content/uploads/2014/09/bitsquare-home2.jpg"/>
 
+本篇
+------------------
+作为译文、中文交流
+Q群:246165192
+
 
 Bisq是什么?
 ------------------
