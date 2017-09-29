@@ -1,18 +1,19 @@
 <img src="https://bisq.io/wp-content/uploads/2014/09/bitsquare-home2.jpg"/>
 
 
-What is Bisq?
+Bisq是什么?
 ------------------
 
-Bisq is a cross-platform desktop application that allows users to trade national currency (dollars, euros, etc) for bitcoin without relying on centralized exchanges such as Coinbase, Bitstamp or (the former) Mt. Gox.
+Bisq是一个跨平台的桌面应用程序，允许用户在不依赖中心化交易所（如Coinbase，Bitstamp或（曾经的）Mt. Gox.）的情况下数字货币兑换法币（美元，欧元，人民币等）。。
 
-By running Bisq on their local machines, users form a peer-to-peer network. Offers to buy and sell bitcoin are broadcast to that network, and through the process of offering and accepting these trades via the Bisq UI, a market is established.
+通过在本地机器上运行Bisq，用户形成对等网络。购买和出售比特币的委托广播到该网络，并通过Bisq 界面发布委托和委托下单这些交易的过程，建立了市场。
 
-There are no central points of control or failure in the Bisq network. There are no trusted third parties. When two parties agree to trade national currency for bitcoin, the bitcoin to be bought or sold is held in escrow using multisignature transaction capabilities native to the bitcoin protocol.
+Bisq网络中没有控制或失败的中心点。没有值得信赖的第三方。当双方同意对本币进行比特币交易时，要购买或出售的比特币使用本地基于比特币协议的多重签名交易功能进行托管。
 
-Because the national currency portion of any trade must be transferred via traditional means such as a wire transfer, Bisq incorporates first-class support for human arbitration to resolve any errors or disputes.
+由于任何交易的法定货币必须通过汇款手段进行转移，Bisq将人力仲裁的环节纳入解决任何错误或争议。
 
-You can read about all of this and more in the [whitepaper](https://bisq.io/bitsquare.pdf) and [arbitration](https://bisq.io/arbitration_system.pdf) documents. Several [videos](https://bisq.io/blog/category/video) are available as well.
+您可以阅读白皮书 [whitepaper](https://bisq.io/bitsquare.pdf)和仲裁文件[arbitration](https://bisq.io/arbitration_system.pdf)中的所有内容。还有几个视频[videos](https://bisq.io/blog/category/video)也可用。
+
 
 Status
 ------
