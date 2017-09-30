@@ -15,7 +15,17 @@ Q群:246165192
 找到`i18n`文件夹
 拖入`displayStrings.properties`覆盖即可完成汉化
 
+# 无法连接Tor网络
+由于中国大陆的网络限制,Tor被禁止,可通过VPN或SS登陆.
+#### SS登陆方法
+开启SS本地端口1080
 
+打开电脑中`C:\Users\用户名\AppData\Local\Bisq\app`
+右键`Bisq.jar` 打开解压缩
+找到torrc并右键编辑
+最后一行加入
+` Socks5Proxy 127.0.0.1:1080`
+保存即可
 
 Bisq是什么?
 ------------------
