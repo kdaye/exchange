@@ -5,7 +5,7 @@
 作为译文、中文交流
 Q群:246165192
 
-# 汉化
+### 汉化
 下载[displayStrings_cn.properties](https://github.com/kdaye/exchange/blob/master/common/src/main/resources/i18n/displayStrings_cn.properties)
 
 把`displayStrings_cn.properties`改成`displayStrings.properties`
@@ -15,7 +15,7 @@ Q群:246165192
 找到`i18n`文件夹
 拖入`displayStrings.properties`覆盖即可完成汉化
 
-# 无法连接Tor网络
+### 无法连接Tor网络
 由于中国大陆的网络限制,Tor被禁止,可通过VPN或SS登陆.
 #### SS登陆方法
 开启SS本地端口1080
