@@ -6,8 +6,8 @@
 Q群:246165192
 
 # 汉化
-下载这个内容
-https://github.com/kdaye/exchange/blob/master/common/src/main/resources/i18n/displayStrings_cn.properties
+下载[displayStrings_cn.properties](https://github.com/kdaye/exchange/blob/master/common/src/main/resources/i18n/displayStrings_cn.properties)
+
 把`displayStrings_cn.properties`改成`displayStrings.properties`
 
 打开电脑中`C:\Users\用户名\AppData\Local\Bisq\app`
