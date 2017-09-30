@@ -5,6 +5,17 @@
 作为译文、中文交流
 Q群:246165192
 
+# 汉化
+下载这个内容
+https://github.com/kdaye/exchange/blob/master/common/src/main/resources/i18n/displayStrings_cn.properties
+把`displayStrings_cn.properties`改成`displayStrings.properties`
+
+打开电脑中`C:\Users\用户名\AppData\Local\Bisq\app`
+右键`Bisq.jar` 打开解压缩
+找到`i18n`文件夹
+拖入`displayStrings.properties`覆盖即可完成汉化
+
+
 
 Bisq是什么?
 ------------------
